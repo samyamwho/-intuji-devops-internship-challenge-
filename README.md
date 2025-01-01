@@ -57,6 +57,17 @@ The purpose of this step was to configure and build the project in Jenkins. A ne
 - **Result**: The project was built successfully.
 ![image](https://github.com/user-attachments/assets/8601594e-ff83-4bc7-95b7-a951a904b812)
 
+## Findings
+
+1. **Git Installation**: Git was successfully installed, allowing for the cloning of repositories needed for the project.
+
+2. **Docker Setup**: Docker was installed successfully, and the PHP application was containerized using a custom Dockerfile. The image was built and deployed successfully, making the application accessible via `http://localhost:8081`.
+
+3. **Docker Hub Integration**: The Docker image was tagged and pushed to Docker Hub successfully, enabling easy distribution and reuse.
+
+4. **Jenkins Setup**: Jenkins was successfully installed and configured. A freestyle project was created, and the build process was automated, enabling efficient deployment management.
+
+5. **Automation Workflow**: The overall workflow, from building the Docker image to automating the build process with Jenkins, was streamlined and functional, demonstrating effective use of Docker, Jenkins, and Docker Hub in a DevOps pipeline.
 
 ---
 Docker Hub: https://hub.docker.com/u/samyamshr
