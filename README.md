@@ -55,7 +55,8 @@ The purpose of this step was to configure and build the project in Jenkins. A ne
 ![Screenshot from 2025-01-01 21-13-28](https://github.com/user-attachments/assets/7c3d06fa-195f-47f4-bd6b-90fd5d5b9b5b)3
 
 - **Result**: The project was built successfully.
-![image](https://github.com/user-attachments/assets/8601594e-ff83-4bc7-95b7-a951a904b812)
+![image](https://github.com/user-attachments/assets/11244447-056c-403b-9ba6-d6f29a18b3c9)
+
 
 ## Findings
 
